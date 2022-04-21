@@ -4,7 +4,7 @@
 ## Installation
 
 ```bash
-go install github.com/dino16m/golearn-cli
+go get github.com/dino16m/golearn-cli
 ```
 
 ## Usage
